@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461767350927",
+    "project_id": "chatapplication-60b4a",
+    "storage_bucket": "chatapplication-60b4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461767350927:android:d74dc1194f4912c2c8eefa",
+        "android_client_info": {
+          "package_name": "com.volkancicek.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461767350927-ocae3j9fvbmi0dlnpfqh2ek0hqpvaqpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJl8LP3V9rSkTbANh19NM7FACN2l5pPrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461767350927-ocae3j9fvbmi0dlnpfqh2ek0hqpvaqpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
